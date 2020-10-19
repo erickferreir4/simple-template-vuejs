@@ -1,6 +1,15 @@
-# maeztra
+# Teste Maeztra
 
 ## Project setup
+
+### Use Docker
+
+```
+docker-compose up --build
+
+```
+### Or
+
 ```
 npm install
 ```
