@@ -29,7 +29,7 @@ export default {
 </script>
 
 
-<style >
+<style scoped>
 
 .m-banner .slick-slider .slick-slide img{
 	width: 100%;

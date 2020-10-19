@@ -69,7 +69,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
 .m-vitrine--center {
 	padding: 30px 0;
