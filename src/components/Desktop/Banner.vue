@@ -39,6 +39,9 @@ export default {
 	left: 160px;
     z-index: 9;
 }
+.slick-slide img {
+	width: 100%;
+}
 .m-banner .slick-dots {
 	bottom: 25px
 }
