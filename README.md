@@ -8,8 +8,8 @@
 
 ```
 docker-compose up --build
-
 ```
+
 ### Or
 
 ```
