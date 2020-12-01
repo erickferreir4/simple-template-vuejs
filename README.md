@@ -1,5 +1,5 @@
 
-# [Teste Maeztra](https://erickferreir4.github.io/teste-maeztra/)
+# [simple-template-vuejs](https://erickferreir4.github.io/teste-maeztra/)
 
 
 ### A simple template of a home for an ecommerce made in vuejs
@@ -8,13 +8,13 @@
 Template of a responsive e-commerce home page containing shop window, search, newsletter and other elements of the online store. Built with [vuejs](https://vuejs.org/)
 
 ### Header
-![header](https://github.com/erickferreir4/teste-maeztra/blob/master/src/assets/img1.PNG?raw=true)
+![header](https://github.com/erickferreir4/simple-template-vuejsa/blob/master/src/assets/img1.PNG?raw=true)
 
 ### Content
-![content](https://github.com/erickferreir4/teste-maeztra/blob/master/src/assets/img2.PNG?raw=true)
+![content](https://github.com/erickferreir4/simple-template-vuejs/blob/master/src/assets/img2.PNG?raw=true)
 
 ### Footer
-![footer](https://github.com/erickferreir4/teste-maeztra/blob/master/src/assets/img3.PNG?raw=true)
+![footer](https://github.com/erickferreir4/simple-template-vuejs/blob/master/src/assets/img3.PNG?raw=true)
 
 
 <br>
