@@ -1,5 +1,5 @@
 
-# [simple-template-vuejs](https://erickferreir4.github.io/teste-maeztra/)
+# [simple-template-vuejs](https://erickferreir4.github.io/simple-template-vuejs/)
 
 
 ### A simple template of a home for an ecommerce made in vuejs
