@@ -11,7 +11,7 @@
 					<div class="m-header--middle">
 
 						<div class="m-header--middle--logo">
-							<img src="./../../assets/logo-maeztra.png" />
+							<img src="./../../assets/yourlogo.png" />
 						</div>
 
 						<div class="m-header--middle--search">
@@ -81,6 +81,9 @@ export default
 	text-align: center;
 }
 
+.m-header--middle--logo img{
+    max-width: 150px;
+}
 .m-header--middle {
 	display: flex;
     justify-content: space-between;

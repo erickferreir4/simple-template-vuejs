@@ -43,7 +43,7 @@
 
 				<span>
 					<img src="./../../assets/powered-by-vtex.png" />
-					<img src="./../../assets/powered-by-maeztra.png" />
+					<img style="max-width: 100px" src="./../../assets/yourlogo.png" />
 				</span>
 
 			</div>

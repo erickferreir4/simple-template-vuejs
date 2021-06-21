@@ -8,7 +8,7 @@
 			<div class="m-header--middle">
 				<span>
 					<button><img src="./../../assets/icon-menu.svg" /></button>
-					<img src="./../../assets/logo-mobile.png" />
+					<img style="max-width: 110px" src="./../../assets/yourlogo.png" />
 				</span>
 
 				<span>
